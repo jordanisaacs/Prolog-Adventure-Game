@@ -1,5 +1,4 @@
 h:- dynamic my_location/1, object/2, path/3, pathListAI/3, pathVisitedAI/1, mapListAI/2, pathFinishedAI/1, visitRoomAI/1, useObjectLocAI/2, pickupObjectLocAI/2, completeTravel/1, finishedAI/1, object_useAI/2. object_use/2.
-:- set_prolog_stack(local, limit(5000000)).
 
 /* TYPE START. TO BEGIN GAME */
 /* CREATED BY JORDAN ISAACS - 2019 */
